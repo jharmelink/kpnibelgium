@@ -12,6 +12,10 @@ h1 {
     margin-bottom: 0px;
 }
 
+h2 {
+    font-size: 18px;
+}
+
 a {
     color: #069;
     text-decoration: none;
@@ -99,6 +103,14 @@ form button {
     article {
         padding: 1px 10px;
     }
+
+    h1 {
+        font-size: 20px;
+    }
+
+    h2 {
+        font-size: 16px;
+    }
 }
 
 @media screen and (max-width: 400px) {
@@ -108,5 +120,13 @@ form button {
 
     article {
         padding: 1px 9px;
+    }
+
+    h1 {
+        font-size: 18px;
+    }
+
+    h2 {
+        font-size: 14px;
     }
 }
