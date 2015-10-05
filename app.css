@@ -51,6 +51,12 @@ article {
     margin-left: -9px;
 }
 
+@media screen and (max-width: 1024px) {
+    html, body, main {
+        background-color: #fff;
+    }
+}
+
 @media screen and (max-width: 790px) {
     article {
         padding: 1px 15px;
